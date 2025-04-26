@@ -1,0 +1,1 @@
+FOOTER = "ark.AI | Powered by just a bunch of hackers"

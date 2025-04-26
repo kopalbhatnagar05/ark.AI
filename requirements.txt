@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+scipy
+geopandas
+folium
+plotly
+streamlit
+pgmpy
+geopy
+haversine
+hdbscan
+ollama-py
+matplotlib
+seaborn
+networkx
