@@ -1,9 +1,8 @@
 # ark.AI: Smart City Crisis Analytics & Resilience Kit
-<p align="center">
-  <img src="ark_AI.png" width="200" height="200" alt="ark.AI Logo"/>
-</p>
-🏆 **Winner of Visionary Vanguard Award (2nd Place), Aggie Hacks 2025**  
-🔗 [Presentation Deck](https://docs.google.com/presentation/d/1xJmRQbjRaKRPh5PnOXXIxPN9oMZI2oBy7DcGkMzwH6Y/edit?usp=sharing) | Walkthrough: 📱 [iOS App] + 🌐 [Streamlit Dashboard](https://drive.google.com/file/d/1o-ZdXJljXJP4hoHn0Bm-ZltdA-eudum_/view?usp=drivesdk)
+
+![ark.AI Logo](ark_AI.png)
+
+🏆 **Winner of Visionary Vanguard Award (2nd Place), Aggie Hacks 2025** 🔗 [Presentation Deck](https://docs.google.com/presentation/d/1xJmRQbjRaKRPh5PnOXXIxPN9oMZI2oBy7DcGkMzwH6Y/edit?usp=sharing) | Walkthrough: 📱 [iOS App] + 🌐 [Streamlit Dashboard](https://drive.google.com/file/d/1o-ZdXJljXJP4hoHn0Bm-ZltdA-eudum_/view?usp=drivesdk)
 
 ---
 
@@ -11,10 +10,10 @@
 
 **ark.AI** is an AI-powered Smart City Resilience Kit designed to protect citizens and empower city leaders during crises.
 
-Developed by *Just a Bunch of Hackers*:
-- [Kopal Bhatnagar](https://www.linkedin.com/in/kopalbhatnagar/)
-- [Rashmila Mitra](https://www.linkedin.com/in/rashmilamitra/)
-- [Arjun Lamba](https://www.linkedin.com/in/arjun777lamba/)
+Developed by **Just a Bunch of Hackers**:
+- **[Kopal Bhatnagar](https://linkedin.com/in/your-profile)** 
+- **[Rashmila Mitra](https://linkedin.com/in/rashmila-profile)** 
+- **[Arjun Lamba](https://linkedin.com/in/arjun-profile)**
 
 Built in just 48 hours at **Aggie Hacks 2025**, ark.AI moves cities from being **reactive** to **proactive** — using AI to **detect early warnings**, **predict disaster chains**, and **guide people to safety**.
 
@@ -26,8 +25,8 @@ It began with a spark in Griffith Park.
 No one saw it.  
 Minutes later — panic spread faster than help could.
 
-What if cities could *know before the chaos*?  
-What if citizens could *trust every alert*?
+What if cities could **know before the chaos**?  
+What if citizens could **trust every alert**?
 
 ark.AI makes this future possible.
 
@@ -36,7 +35,7 @@ ark.AI makes this future possible.
 ## 🧑‍💼 Personas We Serve
 
 | Persona | Needs | Solution |
-|:--------|:------|:---------|
+|---------|--------|----------|
 | 🧑‍💼 **City Leaders (Emergency Directors)** | Real-time situational awareness, trusted social media validation, and disaster prediction | 🖥️ **Streamlit Dashboard** - Visualize high-risk zones, verify incoming information, forecast cascading disasters |
 | 👨‍👩‍👧 **Citizens (General Public)** | Verified, location-specific emergency alerts; shelter maps; misinformation protection | 📱 **ark.AI Mobile App** - Personalized alerts, verified shelter locations, high-trust social media updates |
 
