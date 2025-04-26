@@ -1,6 +1,8 @@
 # ark.AI: Smart City Crisis Analytics & Resilience Kit
 
-![ark.AI Logo](ark_AI.png)
+<div align="center">
+  <img src="ark_Ai.png" width="200" height="200" alt="ark.AI Logo">
+</div>
 
 🏆 **Winner of Visionary Vanguard Award (2nd Place), Aggie Hacks 2025** 🔗 [Presentation Deck](https://docs.google.com/presentation/d/1xJmRQbjRaKRPh5PnOXXIxPN9oMZI2oBy7DcGkMzwH6Y/edit?usp=sharing) | Walkthrough: 📱 [iOS App] + 🌐 [Streamlit Dashboard](https://drive.google.com/file/d/1o-ZdXJljXJP4hoHn0Bm-ZltdA-eudum_/view?usp=drivesdk)
 
