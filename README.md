@@ -1,7 +1,9 @@
 # ark.AI: Smart City Crisis Analytics & Resilience Kit
-
+<p align="center">
+  <img src="ark_AI.png" width="200" height="200" alt="ark.AI Logo"/>
+</p>
 🏆 **Winner of Visionary Vanguard Award (2nd Place), Aggie Hacks 2025**  
-🔗 [Presentation Deck](https://drive.google.com/your-presentation-lin) | 📱 [iOS App](https://your-ios-app-link) + 🌐 [Streamlit Dashboard](https://your-streamlit-dashboard-link)
+🔗 [Presentation Deck](https://docs.google.com/presentation/d/1xJmRQbjRaKRPh5PnOXXIxPN9oMZI2oBy7DcGkMzwH6Y/edit?usp=sharing) | Walkthrough: 📱 [iOS App] + 🌐 [Streamlit Dashboard](https://drive.google.com/file/d/1o-ZdXJljXJP4hoHn0Bm-ZltdA-eudum_/view?usp=drivesdk)
 
 ---
 
@@ -10,10 +12,9 @@
 **ark.AI** is an AI-powered Smart City Resilience Kit designed to protect citizens and empower city leaders during crises.
 
 Developed by *Just a Bunch of Hackers*:
-- Kopal Bhatnagar
-- Rashmila Mitra
-- Arjun Lamba
-- Rajat Jha
+- [Kopal Bhatnagar](https://www.linkedin.com/in/kopalbhatnagar/)
+- [Rashmila Mitra](https://www.linkedin.com/in/rashmilamitra/)
+- [Arjun Lamba](https://www.linkedin.com/in/arjun777lamba/)
 
 Built in just 48 hours at **Aggie Hacks 2025**, ark.AI moves cities from being **reactive** to **proactive** — using AI to **detect early warnings**, **predict disaster chains**, and **guide people to safety**.
 
@@ -77,7 +78,6 @@ ark.AI makes this future possible.
 | Geospatial | GeoPandas, Haversine |
 | LLM Agent | Locally Hosted Mistral-7B |
 
----
 
-## 🗂️ Project Structure
+
 
